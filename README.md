@@ -48,7 +48,7 @@ The features are designed to be simple, welcoming and straight forward. The main
 
 1. Logo
 
-- the logo for BAKE IT PATISSERIE is located ontop of the home page on the far left of the navigation bar
+- The logo for BAKE IT PATISSERIE is located ontop of the home page on the far left of the navigation bar
 
 2. Navigation
 
