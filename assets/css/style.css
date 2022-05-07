@@ -10,3 +10,18 @@ body{
     font-family: calistoga;
     font-weight: 400;
 }
+
+/* navigation links */
+
+#nav-area{
+    font-size: 100%;
+    letter-spacing: 5%;
+}
+
+#nav-area li{
+    margin-right: 10%;
+    float: right;
+    list-style-type: none;
+    display: flex;
+
+}
