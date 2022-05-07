@@ -61,3 +61,28 @@ The features are designed to be simple, welcoming and straight forward. The main
 4. Buttons
 
 - There is a button on the sign up section for ease of use.
+
+### Structure Plane 
+
+There is one page on this website divided into four sections :
+
+1. Home  Section
+
+- This is the first section of the page that the user sees when they open the website. It is designed to give the user a clear direction on what the website is about. An overlay image containing the website name BAKE IT PATISSERIE is embedded over the maine-Image. To provide an attractive visual impression of the website, a picture showing baked products was chosen as the main-image. There is an about section beneath the maine image a brief description, background and the services offered at BAKE IT PATISSERIE.
+
+2. Recipe Section
+
+- This is the section that contains the recipe method of the finished product. It tells the user the name of the recipe, the ingrediants and tools needed and the method to follow to complete the recipe. The recipe section is structured to give the user an easy to follow recipe method which is easy to follow. The target audiance is begginer level who wants to turn baking into a hobby. There is also a video for assistance.
+
+3. Sign Up section
+
+- The sign up section enables the user to register to the website so that they will be able to recieve news letters and notifications which will allow them to see past and newly added recipies. It is a simple and straight forward form asking for the users name and email address. **On this Portfolio project, the sign up section "action" used is POST** .
+
+4. Thank section
+
+- The user will be redirected to this page section once they submit the form on the Sign Up page. They will be redirected to this page thanking them for joinning to use the services. It also helps the user to know if they have been registered succesfuly.
+
+5. Footer section
+- This is a section located at the bottom of the page providing links to our social media platforms.
+
+
