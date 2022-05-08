@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Calistoga&family=Montserrat&display=swap');
 
+/* general style */
+
 *{
     margin: 0;
     padding: 0;
@@ -8,7 +10,8 @@
 
 body{
     font-family: calistoga;
-    font-weight: 400;
+    font-size: 400;
+    color: black;
 }
 
 /* navigation links */
@@ -23,5 +26,13 @@ body{
     float: right;
     list-style-type: none;
     display: flex;
+    margin-top: 1%;
 
 }
+
+#nav-area a{
+    text-decoration: none;
+    color: rgb(53, 79, 82);
+}
+
+#nav-area a:hover{color:rgb(132, 169, 140)}
