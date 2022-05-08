@@ -36,3 +36,15 @@ body{
 }
 
 #nav-area a:hover{color:rgb(132, 169, 140)}
+
+/**main image and website name*/
+
+#main-image{
+    height: 500px;
+    width: 100%;
+    background: url("../images/main-image-4946407.jpg") no-repeat center center;
+}
+
+
+
+
