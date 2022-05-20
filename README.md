@@ -8,6 +8,9 @@ For my **Portfolio 1 Project** on the **Code Institute Diploma in Software Devel
 
 The designe plan was focused on **Desktop** first and then **Responsive**
 
+![about-image-433576](https://user-images.githubusercontent.com/103276740/169558654-ef6f3d46-703c-4344-86cf-b0a7ecb118db.jpg)
+
+
 -----
 
 ## Who Is this website for and what does it do?
